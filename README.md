@@ -26,3 +26,11 @@ Help wanted: (things that still need doing)...
   
 * Design the RAIL system. 
 
+* Consider a lid. Maybe a post in the middle of the cartridge and a
+  lid that mates with that. (or screws into)
+
+* Consider a rim, so that the tape does not come out as easily. 
+
+* consider a "lid" on the "feeder-tube". 
+
+
